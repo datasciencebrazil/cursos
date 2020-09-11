@@ -1,2 +1,3 @@
-# cursos
-Curadoria de Cursos indicados pela comunidade
+# Cursos
+
+Curadoria de Cursos indicados pela comunidade.
